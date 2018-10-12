@@ -11512,11 +11512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cvd\\c#\\SignalRDotNet\\chat.csproj",
+      "projectUniqueName": "D:\\cvd\\SignalRDotNet\\chat.csproj",
       "projectName": "chat",
-      "projectPath": "D:\\cvd\\c#\\SignalRDotNet\\chat.csproj",
+      "projectPath": "D:\\cvd\\SignalRDotNet\\chat.csproj",
       "packagesPath": "C:\\Users\\nccsoftadmin\\.nuget\\packages\\",
-      "outputPath": "D:\\cvd\\c#\\SignalRDotNet\\obj\\",
+      "outputPath": "D:\\cvd\\SignalRDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
